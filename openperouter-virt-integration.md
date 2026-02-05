@@ -1,11 +1,11 @@
 ---
 title: OpenPERouter virtualization integration
 authors:
-  - @maiqueb
+  - maiqueb
 reviewers: # Include a comment about what domain expertise a reviewer is expected to bring and what area of the enhancement you expect them to focus on. For example: - "@networkguru, for networking aspects, please look at IP bootstrapping aspect"
-  - @qinqon     # CNV perspective + cloud platform integration expert
-  - @fede       # openperouter maintainer ; EVPN expert
-  - @phoracek   # customer representative ; CNV perspective
+  - qinqon     # CNV perspective + cloud platform integration expert
+  - fede       # openperouter maintainer ; EVPN expert
+  - phoracek   # customer representative ; CNV perspective
 approvers:
   - TBD
 api-approvers:
